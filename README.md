@@ -1,5 +1,5 @@
 # What is this project about?
-This project is meant to debloat Windows 10 to make it use less resources, improve privacy and several other optimisations.
+This project is a collection of various scripts and apps meant to debloat Windows 10 to make it use less resources, improve privacy and several other optimisations.
 
 ## Sources
 ### Debloat apps:
