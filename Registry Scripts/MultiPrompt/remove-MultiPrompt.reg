@@ -1,0 +1,15 @@
+Windows Registry Editor Version 5.00
+
+; Removes Registry Keys:
+; HKEY_CLASSES_ROOT\Directory\shell\00MenuMultiPrompt
+; HKEY_CLASSES_ROOT\Directory\background\shell\00MenuMultiPrompt
+; HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt\
+
+; Remove Entry in normal context menu
+[-HKEY_CLASSES_ROOT\Directory\shell\00MenuMultiPrompt]
+
+; Remove Entry in background context menu
+[-HKEY_CLASSES_ROOT\Directory\background\shell\00MenuMultiPrompt]
+
+; Remove context menu
+[-HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt] 
