@@ -1,7 +1,7 @@
 # Warning
 I do not take responsibility for what may happen to your system. This is at your own risk.
 # What is this project about?
-This project is a Collection of various Powershell scripts, apps, and reigstry tweaks to debloat Windows 10 for better privacy, performance and optimization.
+This project is a Collection of various Powershell scripts, apps, and reigstry tweaks to debloat Windows 10 (I recommend to use version 1909) for better privacy, performance and optimization.
 # Contribute
 You are free to create pull requests and add new scripts, apps or other stuff which are not already included in the repository.
 You are requested to open issues, if you face, in the respective repositories and websites linked below and not in this repository.
