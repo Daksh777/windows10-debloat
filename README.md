@@ -19,3 +19,5 @@ You are requested to open issues, if you face, in the respective repositories an
 ## Registry Scripts:
 - Total Access: Source unknown
 
+## Misc Scripts
+- Windows 10 Activator: https://github.com/wuseman/WLOADER
