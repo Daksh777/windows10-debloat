@@ -4,7 +4,7 @@ Windows 10 PRO Activator without using any backdoor loader from China and neithe
 also removing all bloatware from Windows 10. Edit script after your needs.
 
 # PREVIEW:
-![Screnshot](wloader.gif)
+![Screnshot](https://github.com/wuseman/WLOADER/wloader.gif)
 
 # SLMGR Commands
 
