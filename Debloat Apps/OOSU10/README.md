@@ -16,4 +16,4 @@ O&O ShutUp10 is entirely free and does not have to be installed – it can be si
 - Operating System: Supports all Microsoft® Windows 10 versions up to 1909
 - Available in English, German, French, Italian, Spanish, Russian and Chinese (simplified)
 
-### Youtube video: https://youtu.be/q4iXFbtLNRU
+### YouTube video: https://youtu.be/q4iXFbtLNRU
