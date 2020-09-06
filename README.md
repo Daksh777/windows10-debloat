@@ -5,7 +5,7 @@ You are free to create pull requests and add new scripts, apps or other stuff wh
 You are requested to open issues, if you face, in the respective repositories and websites linked below and not in this repository.
 
 ## Sources
-### Debloat apps:
+### Debloat Apps:
 - OOSU10: https://www.oo-software.com/en/shutup10
 - Privatezilla: https://github.com/builtbybel/privatezilla
 - UWT4: https://thewindowsclub.com/ultimate-windows-tweaker-4-windows-10
@@ -13,3 +13,6 @@ You are requested to open issues, if you face, in the respective repositories an
 ### Debloat Scripts:
 - Syxnec's Scripts: https://github.com/Sycnex/Windows10Debloater
 - W4RH4WK's Scripts: https://github.com/W4RH4WK/Debloat-Windows-10
+
+### Registry Scripts:
+Total Access: Source unknown
