@@ -1,21 +1,28 @@
-<#
-.SYNOPSIS
-    A script to gather Wifi SSIDs and passwords from the computer the script is run on.
-.DESCRIPTION
-    A script to gather Wifi SSIDs and passwords from the computer the script is run on. Uses the
-    netsh wlan external command.
-.EXAMPLE
-    PS C:\> .\WifiInfo.ps1
-    Gets both the SSID name and password for each Wifi network stored on the computer running the script.
-.EXAMPLE
-    $Results = .\WifiInfo.ps1
-    Gathers the SSID and password storing them in a variable named $Results.
-.NOTES
-    Outputs as JSON of SSID name and passwod.
-#>
-$WirelessSSIDs = (netsh wlan show profiles | Select-String ': ' ) -replace ".*:\s+"
-$WifiInfo = foreach($SSID in $WirelessSSIDs) {
-    $Password = (netsh wlan show profiles name=$SSID key=clear | Select-String 'Key Content') -replace ".*:\s+"
-    New-Object -TypeName psobject -Property @{"SSID"=$SSID;"Password"=$Password}
-}  
-$WifiInfo | ConvertTo-Json
+# Retrieve-Windows-Wifi-Passwords
+Retreives the SSID names and passwords in cleartext for each Wifi network stored on the computer running the script. Will work with any user in Windows 10 but will need to be run as an administrator for Windows 7/8.
+
+
+# Synopsis
+
+Windows networks allow you to print the passwords of historical wifi networks that you have joined in cleartext with the following:
+
+> netsh wlan show profiles
+
+> netsh wlan show profile name=<profile> key=clear
+
+This script aims to  take that information and output only the ssid and passwords in json format to allow for better integration with blue team operations, or for use with bash bunnies / rubber ducky like devices.
+
+# Example Usage / Output
+```
+PS C:\> .\WifiInfo.ps1
+[
+    {
+        "Password":  "password1",
+        "SSID":  "The lan before time"
+    },
+    {
+        "Password":  "hunter2",
+        "SSID":  "Pretty fly for a wifi"
+    }
+]
+```
