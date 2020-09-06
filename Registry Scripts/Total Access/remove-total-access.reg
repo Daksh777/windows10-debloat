@@ -15,5 +15,3 @@ Windows Registry Editor Version 5.00
 ; To remove newer current Take Ownership context menu
 [-HKEY_CLASSES_ROOT\*\shell\TakeOwnership]
 [-HKEY_CLASSES_ROOT\Directory\shell\TakeOwnership]
-
-
