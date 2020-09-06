@@ -6,7 +6,7 @@ Windows Registry Editor Version 5.00
 
 
 [HKEY_CLASSES_ROOT\*\shell\TakeOwnership]
-@="Total Access"
+@="Total access"
 "HasLUAShield"=""
 "NoWorkingDirectory"=""
 "Position"="middle"
@@ -18,7 +18,7 @@ Windows Registry Editor Version 5.00
 
 
 [HKEY_CLASSES_ROOT\Directory\shell\TakeOwnership]
-@="Полный доступ"
+@="Total access"
 "AppliesTo"="NOT (System.ItemPathDisplay:=\"C:\\Users\" OR System.ItemPathDisplay:=\"C:\\ProgramData\" OR System.ItemPathDisplay:=\"C:\\Windows\" OR System.ItemPathDisplay:=\"C:\\Windows\\System32\" OR System.ItemPathDisplay:=\"C:\\Program Files\" OR System.ItemPathDisplay:=\"C:\\Program Files (x86)\")"
 "HasLUAShield"=""
 "NoWorkingDirectory"=""
