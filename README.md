@@ -15,4 +15,4 @@ You are requested to open issues, if you face, in the respective repositories an
 - W4RH4WK's Scripts: https://github.com/W4RH4WK/Debloat-Windows-10
 
 ### Registry Scripts:
-Total Access: Source unknown
+- Total Access: Source unknown
