@@ -1,0 +1,54 @@
+Windows Registry Editor Version 5.00
+
+; Adds Registry Keys:
+; HKEY_CLASSES_ROOT\Directory\shell\00MenuMultiPrompt
+; HKEY_CLASSES_ROOT\Directory\background\shell\00MenuMultiPrompt
+; HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt\
+
+; Create top menu enry (both cmd + ps, on normal and background click, in ext menu)
+
+[HKEY_CLASSES_ROOT\Directory\shell\00MenuMultiPrompt]
+"MUIVerb"="Open Here"
+"Icon"="cmd.exe"
+"Extended"=""
+"ExtendedSubCommandsKey"="Directory\\ContextMenus\\MenuMultiPrompt"
+
+[HKEY_CLASSES_ROOT\Directory\background\shell\00MenuMultiPrompt]
+"MUIVerb"="Open Here"
+"Icon"="cmd.exe"
+"Extended"=""
+"ExtendedSubCommandsKey"="Directory\\ContextMenus\\MenuMultiPrompt"
+
+; Menu Entries for cmd (normal + elevated)
+
+[HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt\shell\cmd]
+"MUIVerb"="Command Prompt"
+"Icon"="cmd.exe"
+
+[HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt\shell\cmd\command]
+@="powershell -WindowStyle Hidden \"start cmd -args '/s','/k','pushd','\"%V\"'\""
+
+[HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt\shell\cmde]
+"MUIVerb"="Command Prompt Elevated"
+"Icon"="cmd.exe"
+"HasLUAShield"=""
+
+[HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt\shell\cmde\command]
+@="powershell -WindowStyle Hidden \"start cmd -args '/s','/k','pushd','\"%V\"' -v runAs\""
+
+; Menu Entries for ps (normal + elevated)
+
+[HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt\shell\ps]
+"MUIVerb"="PowerShell"
+"Icon"="powershell.exe"
+
+[HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt\shell\ps\command]
+@="powershell -WindowStyle Hidden \"start powershell -args '-noexit','-command','Set-Location','%V'\""
+
+[HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt\shell\pse]
+"MUIVerb"="PowerShell Elevated"
+"Icon"="powershell.exe"
+"HasLUAShield"=""
+
+[HKEY_CLASSES_ROOT\Directory\ContextMenus\MenuMultiPrompt\shell\pse\command]
+@="powershell -WindowStyle Hidden \"start powershell -args '-noexit','-command','Set-Location','%V'\" -v runAs"
