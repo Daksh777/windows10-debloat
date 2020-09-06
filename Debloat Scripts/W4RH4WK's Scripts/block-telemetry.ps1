@@ -1,7 +1,3 @@
-# W4RH4WK/Debloat-Windows-10's scripts. Last updated on 14 August 2020
-
-
-
 #   Description:
 # This script blocks telemetry related domains via the hosts file and related
 # IPs via Windows Firewall.
