@@ -1,4 +1,4 @@
-# W4RH4WK/Debloat-Windows-10's script. Last updated on 14 August
+# W4RH4WK/Debloat-Windows-10's scripts. Last updated on 14 August 2020
 
 
 
