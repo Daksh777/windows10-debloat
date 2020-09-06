@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+; Created by: jimmy123322
+; Created on: January 28th 2020
+
+
+; To remove old Take Ownership context menu
+[-HKEY_CLASSES_ROOT\*\shell\runas]
+
+[-HKEY_CLASSES_ROOT\Directory\shell\runas]
+
+[-HKEY_CLASSES_ROOT\dllfile\shell\runas]
+
+
+; To remove newer current Take Ownership context menu
+[-HKEY_CLASSES_ROOT\*\shell\TakeOwnership]
+[-HKEY_CLASSES_ROOT\Directory\shell\TakeOwnership]
+
+
