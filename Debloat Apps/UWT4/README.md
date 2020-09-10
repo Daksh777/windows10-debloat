@@ -24,3 +24,6 @@ This tweaker is just around 750 KB in size and includes over 200 tweaks. Like it
 - **Search Bar:** Ultimate Windows Tweaker 4 adds a Search Bar. Bow you can easily search for tweaks, and then double-click on the search result to go to it directly.
 
 - **About tab:** Here apart from the License Agreement, you will see some useful links. If you need to submit bugs, visit the About page and use the Submit Bugs link. If you need support, you can use the Support link or visit our TWC Forum. Clicking on the Check for Update button will inform you if any updates are available. You can then visit the homepage to download the latest version.
+
+---
+https://thewindowsclub.com/ultimate-windows-tweaker-4-windows-10 's app. Last updated: Unknown. Latest version: 4.7.1.0
