@@ -96,3 +96,6 @@ You can [buy me a coffee or donut, some banana, a shirt, Taycan or Tesla, the st
 > [builtbybel](https://www.builtbybel.com) &nbsp;&middot;&nbsp;
 > GitHub [@builtbybel](https://github.com/builtbybel) &nbsp;&middot;&nbsp;
 > Twitter [@builtbybel](https://twitter.com/builtbybel)
+
+---
+builtbybel/privatezilla's app. Last updated on 25 August 2020. Latest version: 0.30.2
