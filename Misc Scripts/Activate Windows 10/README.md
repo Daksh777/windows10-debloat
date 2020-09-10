@@ -53,4 +53,5 @@ Visit our homepage for the latest info and updated tools
 
 https://github.com/wuseman
 
-#### END!
+---
+wuseman/WLOADER's script. Last updated on December 22 2018.
