@@ -7,3 +7,6 @@ Unlocker enables you to access locked files by using file handles. It forces the
 The message on the pop-up window tends to vary it essentially tells you that a file or program is in use and it cannot proceed with a new action. Unlocker prevents this from happening by showing you a list of files you need to unlock. To do this, right-click the item you want to open and click Unlock. The list will then appear on a new window. This window tells you a file or folder’s process path, handle, process identifier, and the path it’s locked in. 
 
 The list includes executable or binary program file formats currently running on your systems such as EXE, COM, DLL, and CPL. Usually, they are automatically locked by Windows OS. The easiest way to resolve this is to click Unlock All which is found in the bottom-most row of this window. You can also opt to unlock a single program when you click Unlock or take down the process of the file by clicking Kill Process. 
+
+---
+http://unlocker.emptyloop.com 's app. Last updated on 16 May 2013. Latest version: 1.9.2
