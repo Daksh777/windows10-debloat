@@ -8,3 +8,6 @@ Registry additions for Windows 10 to add CMD and Powershell entries to extended 
 # Uninstall
 * Run remove-MultiPrompt.reg
 * Now, the "Open Here" menu is gone
+
+---
+shadow578/Registry-Mods's scripts. Last updated on December 4 2019.
