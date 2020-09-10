@@ -42,3 +42,6 @@ the option to use an alternative. See the
 
 Ensure *Windows Biometric Service* is running. See
 [#189](https://github.com/W4RH4WK/Debloat-Windows-10/issues/189).
+
+---
+W4RH4WK/Debloat-Windows-10's scripts. Last updated on 14 August 2020.
