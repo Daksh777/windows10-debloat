@@ -21,3 +21,6 @@ You are requested to open issues, if you find any, in the respective repositorie
 - Total Access: Source unknown
 - MultiPrompt: https://github.com/shadow578/Registry-Mods
 - Wifi Password Retriever: https://github.com/codingo/Retrieve-Windows-Wifi-Passwords
+
+## Misc Apps
+- Unlocker: http://www.emptyloop.com/unlocker/
