@@ -7,6 +7,6 @@
 
 ### OR
 
-1. Use the script enable_script.cmd and run it as administrator.
+1. Use the script `enable_script.cmd` and run it as administrator.
 2. Run the scripts: <br>
 `.\script_name.ps1`
