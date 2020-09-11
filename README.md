@@ -15,6 +15,7 @@ You are requested to open issues, if you find any, in the respective repositorie
 ## Debloat Scripts:
 - Syxnec's Scripts: https://github.com/Sycnex/Windows10Debloater
 - W4RH4WK's Scripts: https://github.com/W4RH4WK/Debloat-Windows-10
+- Equk's Scripts: https://github.com/equk/windows
 
 ## Misc Scripts
 - Windows 10 Activator: https://github.com/wuseman/WLOADER
