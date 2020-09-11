@@ -4,3 +4,7 @@
 `ls -Recurse *.ps*1 | Unblock-File`
 3. Run the scripts: <br>
 `.\script_name.ps1`
+
+OR
+
+Use the script enable_script.cmd and run it as administrator.
