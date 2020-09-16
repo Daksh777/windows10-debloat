@@ -25,3 +25,4 @@ You are requested to open issues, if you find any, in the respective repositorie
 
 ## Misc Apps
 - Unlocker: http://www.emptyloop.com/unlocker/
+- Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
