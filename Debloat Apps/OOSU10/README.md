@@ -18,4 +18,4 @@ O&O ShutUp10 is entirely free and does not have to be installed – it can be si
 
 ### YouTube video: https://youtu.be/q4iXFbtLNRU
 ---
-https://oo-software.com/en/shutup10 's app. Last updated on 16 June 2020. Latest version: 1.8.1413
+https://oo-software.com/en/shutup10 's app. Last updated on 24 September. Latest version: 1.8.1414
