@@ -18,7 +18,6 @@ You are requested to open issues, if you find any, in the respective repositorie
 - Equk's Scripts: https://github.com/equk/windows
 
 ## Misc Scripts
-- Windows 10 Activator: https://github.com/wuseman/WLOADER
 - Total Access: Source unknown
 - MultiPrompt: https://github.com/shadow578/Registry-Mods
 - Wifi Password Retriever: https://github.com/codingo/Retrieve-Windows-Wifi-Passwords
