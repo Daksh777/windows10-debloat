@@ -1,5 +1,5 @@
 # Warning
-I do not take responsibility for what may happen to your system. This is at your own risk.
+I do not take responsibility for what may happen to your system. Please use this at your own risk.
 # What is this project about?
 This project is a collection of various Powershell scripts, apps, and reigstry tweaks to debloat Windows 10 for better privacy, performance and optimization (I recommend using version 1909).
 # Contribute
