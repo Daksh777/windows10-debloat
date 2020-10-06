@@ -1,11 +1,12 @@
 # Warning
 I do not take responsibility for what may happen to your system. Please use this at your own risk.
 # What is this project about?
-This project is a collection of various Powershell scripts, apps, and reigstry tweaks to debloat Windows 10 for better privacy, performance and optimization (I recommend using version 1909).
-# Contribute
-You are free to create pull requests and add new scripts, apps or other stuff which are not already included in the repository.
+This project is a collection of various Powershell scripts, apps, and registry tweaks to debloat Windows 10 for better privacy, performance and optimization (I recommend using version 1909).
+# Contribution
+You are free to create pull requests and add new scripts, apps or other stuff that are not already included in the repository.
 You are requested to open issues, if you find any, in the respective repositories and websites linked below and not in this repository.
 
+---
 # Sources
 ## Debloat Apps
 - OOSU10: https://www.oo-software.com/en/shutup10
