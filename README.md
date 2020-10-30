@@ -23,7 +23,7 @@ You are requested to open issues, if you find any, in the respective repositorie
 - MultiPrompt: https://github.com/shadow578/Registry-Mods
 - Wifi Password Retriever: https://github.com/codingo/Retrieve-Windows-Wifi-Passwords
 - Windows 10 Activate: Source unknown
-
+- Uninstall Legacy Edge: Source unkown
 ## Misc Apps
 - Unlocker: http://www.emptyloop.com/unlocker/
 - Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
