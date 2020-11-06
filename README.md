@@ -5,6 +5,8 @@ This project is a collection of various Powershell scripts, apps, and registry t
 # Contribution
 You are free to create pull requests and add new scripts, apps or other stuff that are not already included in the repository.
 You are requested to open issues, if you find any, in the respective repositories and websites linked below and not in this repository.
+# Downloads
+You can download separate archives for debloat apps, debloat scripts, misc apps and misc scripts from [here](https://github.com/Daksh777/windows10-debloat/releases)
 
 ---
 # Sources
