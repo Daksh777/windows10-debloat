@@ -42,8 +42,7 @@ Privatezilla integrates the most critical Windows 10 privacy settings and allows
 
 ### System Requirements
 
-- Windows 10 (supports 1809 - 2004)
-- .NET Framework 4.5
+- Windows 10 (supports 1809 - 2009)
 
 ## Download
 
@@ -67,35 +66,13 @@ All objects (templates and scripts) included can be viewed [here](https://github
 
 ### How-to Install
 * **[Download](https://github.com/builtbybel/privatezilla/blob/master/scripts/packages.zip?raw=true)** the latest `packages.zip` file.
-* **Extract the package** to Privatezilla installation directory
+* **Extract the package** to Privatezilla installation directory 
+   *(the extracted package must have the name scripts)*
 * **Restart Privatezilla**
 
 ### Intro of community package after Installing
 
 ![community-package](https://github.com/builtbybel/privatezilla/blob/master/assets/community-pkg.gif)
 
-## Credits
-
-Since release 0.30 this project is partly based upon 
-
-- https://github.com/t-richards/chemo
-
-More infos [here](https://www.builtbybel.com/blog/12-company-announcements/39-spydish-becomes-privatezilla-open-source)
-
-This software uses the following packages:
-
-- [Icon by bokehlicia](https://iconarchive.com/show/captiva-icons-by-bokehlicia/preferences-system-icon.html)
-
-## Support
-If you like the tool please consider supporting me via PayPal.
-
-You can [buy me a coffee or donut, some banana, a shirt, Taycan or Tesla, the stars or whatever you want here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donate@builtbybel.com&lc=US&item_name=%20Builtbybel&no_note=0&cn=&currency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted)
-
 ---
-
-> [builtbybel](https://www.builtbybel.com) &nbsp;&middot;&nbsp;
-> GitHub [@builtbybel](https://github.com/builtbybel) &nbsp;&middot;&nbsp;
-> Twitter [@builtbybel](https://twitter.com/builtbybel)
-
----
-builtbybel/privatezilla's app. Last updated on 25 October. Latest version: 0.42.20
+builtbybel/privatezilla's app. Last updated on 2 November. Latest version: 0.42.70
