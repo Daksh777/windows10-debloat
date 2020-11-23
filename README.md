@@ -25,6 +25,7 @@ You can download separate archives for debloat apps, debloat scripts, misc apps 
 - MultiPrompt: https://github.com/shadow578/Registry-Mods
 - Wifi Password Retriever: https://github.com/codingo/Retrieve-Windows-Wifi-Passwords
 - Windows 10 Activate: Source unknown
+- Office 2019 Activate: https://msguides.com/microsoft-software-products/office-2019.html
 - Uninstall Legacy Edge: Source unkown
 ## Misc Apps
 - Unlocker: http://www.emptyloop.com/unlocker/
