@@ -28,4 +28,4 @@ PS C:\> .\WifiInfo.ps1
 ```
 
 ---
-codingo/Retrieve-Windows-Wifi-Passwords script. Last updated on September 26, 2016.
+[codingo/Retrieve-Windows-Wifi-Passwords](https://github.com/codingo/Retrieve-Windows-Wifi-Passwords) script. Last updated on September 26, 2016.
