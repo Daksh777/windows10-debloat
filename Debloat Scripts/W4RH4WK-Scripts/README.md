@@ -1,7 +1,4 @@
-# Source
-These scripts are taken from https://github.com/W4RH4WK/Debloat-Windows-10
-
-## Known issues
+# Known issues
 ### Start menu Search
 
 After running the scripts, the start menu search-box may no longer work on newly
@@ -44,4 +41,4 @@ Ensure *Windows Biometric Service* is running. See
 [#189](https://github.com/W4RH4WK/Debloat-Windows-10/issues/189).
 
 ---
-W4RH4WK/Debloat-Windows-10's scripts. Last updated on 27 October 2020.
+[W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10)'s scripts. Last updated on 27 October 2020.
