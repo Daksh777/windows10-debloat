@@ -75,4 +75,4 @@ All objects (templates and scripts) included can be viewed [here](https://github
 ![community-package](https://github.com/builtbybel/privatezilla/blob/master/assets/community-pkg.gif)
 
 ---
-builtbybel/privatezilla's app. Last updated on 2 November. Latest version: 0.42.70
+builtbybel/privatezilla's app. Last updated on 24 January. Latest version: 0.43.0
