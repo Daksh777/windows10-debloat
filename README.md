@@ -18,7 +18,6 @@ You can download separate archives for debloat apps, debloat scripts, misc apps 
 ## Debloat Scripts
 - Syxnec's Scripts: https://github.com/Sycnex/Windows10Debloater
 - W4RH4WK's Scripts: https://github.com/W4RH4WK/Debloat-Windows-10
-- Equk's Scripts: https://github.com/equk/windows
 
 ## Misc Scripts
 - Total Access: Source unknown
