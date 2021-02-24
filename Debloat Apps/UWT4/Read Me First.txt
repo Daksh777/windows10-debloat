@@ -2,7 +2,7 @@ Thank you for downloading Ultimate Windows Tweaker v 4 for Windows 10
 
 Ultimate Windows Tweaker is a freeware Tweak UI Utility for tweaking and optimizing Windows 10, 32-bit & 64-bit. 
 
-Ultimate Windows Tweaker does not require an install. Place the downloaded UWT4 folder in your Program Folder and pin the shortuct of UWT4 exe file to your Start Menu. Simply run its .exe file. Do not seperate out the contents of the Program folder.
+Ultimate Windows Tweaker does not require an install. Place the downloaded UWT4 folder in your Program Folder and pin the shortcut of UWT4 exe file to your Start Menu. Simply run its .exe file. Do not seperate out the contents of the Program folder.
 
 To uninstall it, simply delete the program folder.
 
