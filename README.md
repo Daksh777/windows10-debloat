@@ -21,6 +21,10 @@ All the files in this repository are untouched/unmodifed by me and are safe. **Y
 - Syxnec's Scripts: https://github.com/Sycnex/Windows10Debloater
 - W4RH4WK's Scripts: https://github.com/W4RH4WK/Debloat-Windows-10
 
+## Misc Apps
+- Wise Force Deleter: https://www.wisecleaner.com/wise-force-deleter.html
+- Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
+
 ## Misc Scripts
 - Total Access: Source unknown
 - MultiPrompt: https://github.com/shadow578/Registry-Mods
@@ -28,6 +32,3 @@ All the files in this repository are untouched/unmodifed by me and are safe. **Y
 - Windows 10 Activate: Source unknown
 - Office 2019 Activate: https://msguides.com/microsoft-software-products/office-2019.html
 - Uninstall Legacy Edge: Source unkown
-## Misc Apps
-- Unlocker: http://www.emptyloop.com/unlocker/
-- Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
