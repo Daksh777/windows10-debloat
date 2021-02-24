@@ -26,4 +26,4 @@ This tweaker is just around 750 KB in size and includes over 200 tweaks. Like it
 - **About tab:** Here apart from the License Agreement, you will see some useful links. If you need to submit bugs, visit the About page and use the Submit Bugs link. If you need support, you can use the Support link or visit our TWC Forum. Clicking on the Check for Update button will inform you if any updates are available. You can then visit the homepage to download the latest version.
 
 ---
-[thewindowsclub.com](https://thewindowsclub.com/ultimate-windows-tweaker-4-windows-10)'s app. Last updated: Unknown. Latest version: 4.7.1.0
+[thewindowsclub.com](https://thewindowsclub.com/ultimate-windows-tweaker-4-windows-10)'s app. Last updated: 24 February, 2021. Latest version: 4.8
