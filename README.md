@@ -7,6 +7,8 @@ You are free to create pull requests and add new scripts, apps or other stuff th
 You are requested to open issues, if you find any, in the respective repositories and websites linked below and not in this repository.
 # Downloads
 You can download separate archives for debloat apps, debloat scripts, misc apps and misc scripts from [here](https://github.com/Daksh777/windows10-debloat/releases).
+# My XYZ Antivirus says that ABC is a virus.
+All the files in this repository are untouched/unmodifed by me and are safe. **You are likely stumbling upon a false positive**. Please check for any special notes in the respective folders along with the VirusTotal link.
 
 ---
 # Sources
