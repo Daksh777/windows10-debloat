@@ -10,3 +10,9 @@
 1. Use the script `enable_script.cmd` and run it as administrator.
 2. Run the scripts: <br>
 `.\script_name.ps1`
+
+# VirusTotal Scan
+### All the files in this repository are untouched/unmodifed by me and are safe. <br> **If you are prompted with a false positive, please do not open an issue here but instead in their respectve repositories.** <br> VT link: https://www.virustotal.com/gui/file/b888aecbd9743d520a59281c215955ff08dde169fbdc010ffb099233791aaa57/detection
+
+---
+[github.com/Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
