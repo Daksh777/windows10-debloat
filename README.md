@@ -13,22 +13,22 @@ All the files in this repository are untouched/unmodifed by me and are safe. **Y
 ---
 # Sources
 ## Debloat Apps
-- OOSU10: https://www.oo-software.com/en/shutup10
-- Privatezilla: https://github.com/builtbybel/privatezilla
-- UWT4: https://thewindowsclub.com/ultimate-windows-tweaker-4-windows-10
+- OOSU10: https://www.oo-software.com/en/shutup10 *(Last updated on 30 March, 2021. Latest version: 1.8.1420)*
+- Privatezilla: https://github.com/builtbybel/privatezilla *(Last updated on 24 January 2021. Latest version: 0.43.0)*
+- UWT4: https://thewindowsclub.com/ultimate-windows-tweaker-4-windows-10 *(Last updated: 24 February, 2021. Latest version: 4.8)*
 
 ## Debloat Scripts
-- Syxnec's Scripts: https://github.com/Sycnex/Windows10Debloater
-- W4RH4WK's Scripts: https://github.com/W4RH4WK/Debloat-Windows-10
-
+- Syxnec's Scripts: https://github.com/Sycnex/Windows10Debloater *(Last updated on February 16, 2019.)*
+- W4RH4WK's Scripts: https://github.com/W4RH4WK/Debloat-Windows-10 *(Last updated on 27 October 2020)*
+- 
 ## Misc Apps
-- Wise Force Deleter: https://www.wisecleaner.com/wise-force-deleter.html
-- Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller
-
+- Wise Force Deleter: https://www.wisecleaner.com/wise-force-deleter.html *(Last updated: Unknown. Latest version: 1.5.3)*
+- Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller *(Last updated on January 26, 2020. Latest version: 4.16)*
+- 
 ## Misc Scripts
 - Total Access: Source unknown
-- MultiPrompt: https://github.com/shadow578/Registry-Mods
-- Wifi Password Retriever: https://github.com/codingo/Retrieve-Windows-Wifi-Passwords
+- MultiPrompt: https://github.com/shadow578/Registry-Mods *(Last updated on December 4, 2019)*
+- Wifi Password Retriever: https://github.com/codingo/Retrieve-Windows-Wifi-Passwords *(Last updated on September 26, 2016)
 - Windows 10 Activate: Source unknown
 - Office 2019 Activate: https://msguides.com/microsoft-software-products/office-2019.html
 - Uninstall Legacy Edge: Source unkown
