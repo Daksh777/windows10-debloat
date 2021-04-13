@@ -28,7 +28,7 @@ All the files in this repository are untouched/unmodifed by me and are safe. **Y
 ## Misc Scripts
 - Total Access: Source unknown
 - MultiPrompt: https://github.com/shadow578/Registry-Mods *(Last updated on December 4, 2019)*
-- Wifi Password Retriever: https://github.com/codingo/Retrieve-Windows-Wifi-Passwords *(Last updated on September 26, 2016)
+- Wifi Password Retriever: https://github.com/codingo/Retrieve-Windows-Wifi-Passwords *(Last updated on September 26, 2016)*
 - Windows 10 Activate: Source unknown
 - Office 2019 Activate: https://msguides.com/microsoft-software-products/office-2019.html
 - Uninstall Legacy Edge: Source unkown
