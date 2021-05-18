@@ -12,7 +12,7 @@
 `.\script_name.ps1`
 
 # VirusTotal Scan
-### All the files in this repository are untouched/unmodifed by me and are safe. <br> **If you are prompted with a false positive, please do not open an issue here but instead in their respectve repositories.** <br> VT link: https://www.virustotal.com/gui/file/b888aecbd9743d520a59281c215955ff08dde169fbdc010ffb099233791aaa57/detection
+### All the files in this repository are untouched/unmodifed by me and are safe. <br> **If you are prompted with a false positive, please do not open an issue here but instead in their respectve repositories.** <br> VT link: https://www.virustotal.com/gui/file/fef42cbc587f5c8e09d7b96e80d776a4373aee8fa45ecfd185ac185637692af2/detection
 
 ---
 [github.com/Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
