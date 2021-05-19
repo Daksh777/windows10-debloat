@@ -24,7 +24,7 @@ All the files in this repository are untouched/unmodifed by me and are safe. **Y
 ## Misc Apps
 - Wise Force Deleter: https://www.wisecleaner.com/wise-force-deleter.html *(Last updated: Unknown. Latest version: 1.5.3)*
 - Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller *(Last updated on January 26, 2020. Latest version: 4.16)*
-- 
+- Beauty Search: https://github.com/krlvm/BeautySearch *(Last updated on November 1, 2020. Latest version: 1.2.3)*
 ## Misc Scripts
 - Total Access: Source unknown
 - MultiPrompt: https://github.com/shadow578/Registry-Mods *(Last updated on December 4, 2019)*
