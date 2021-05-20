@@ -1,7 +1,7 @@
 # Warning
 I do not take responsibility for what may happen to your system. Please use this at your own risk.
 # What is this project about?
-This project is a collection of various Powershell scripts, apps, and registry tweaks to debloat Windows 10 for better privacy, performance and optimization (I recommend using version 1909).
+This project is a collection of various Powershell scripts, apps, and registry tweaks to debloat Windows 10 for better privacy, performance and optimization (I recommend using version 2004).
 # Contribution
 You are free to create pull requests and add new scripts, apps or other stuff that are not already included in the repository.
 You are requested to open issues, if you find any, in the respective repositories and websites linked below and not in this repository.
@@ -20,7 +20,6 @@ All the files in this repository are untouched/unmodifed by me and are safe. **Y
 ## Debloat Scripts
 - Syxnec's Scripts: https://github.com/Sycnex/Windows10Debloater *(Last updated on February 16, 2019.)*
 - W4RH4WK's Scripts: https://github.com/W4RH4WK/Debloat-Windows-10 *(Last updated on 27 October 2020)*
-- 
 ## Misc Apps
 - Wise Force Deleter: https://www.wisecleaner.com/wise-force-deleter.html *(Last updated: Unknown. Latest version: 1.5.3)*
 - Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller *(Last updated on January 26, 2020. Latest version: 4.16)*
