@@ -15,7 +15,7 @@ All the files in this repository are untouched/unmodifed by me and are safe. **Y
 ## Debloat Apps
 - OOSU10: https://www.oo-software.com/en/shutup10 *(Last updated on 30 March, 2021. Latest version: 1.8.1420)*
 - Privatezilla: https://github.com/builtbybel/privatezilla *(Last updated on 8 May, 2021. Latest version: 0.50.0)*
-- UWT4: https://thewindowsclub.com/ultimate-windows-tweaker-4-windows-10 *(Last updated: 24 February, 2021. Latest version: 4.8)*
+- UWT4: https://thewindowsclub.com/ultimate-windows-tweaker-4-windows-10 *(Last updated: 12 May, 2021. Latest version: 5.0)*
 
 ## Debloat Scripts
 - Syxnec's Scripts: https://github.com/Sycnex/Windows10Debloater *(Last updated on February 16, 2019.)*
