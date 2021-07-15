@@ -1,5 +1,5 @@
 # Warning
-I do not take responsibility for what may happen to your system. Please use this at your own risk.
+I do not take responsibility for what may happen to your system. Please use this at your own risk and make sure you know what you are doing. If you need any help, please open a [discussion](https://github.com/Daksh777/windows10-debloat/discussions).
 # What is this project about?
 This project is a collection of various Powershell scripts, apps, and registry tweaks to debloat Windows 10 for better privacy, performance and optimization (I recommend using version 2004).
 # Contribution
