@@ -30,4 +30,4 @@ Any modern version of Visual Studio should work. You might need to download [thi
 ![preview](https://github.com/Klocman/Bulk-Crap-Uninstaller/raw/gh-pages/assets/4.png)
 
 ---
-[Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)'s app. Last updated on May 12, 2021. Latest version: 5.0
+[Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller)'s app. Last updated on 11 July, 2021. Latest version: 5.1
