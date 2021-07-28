@@ -1,5 +1,5 @@
 # VirusTotal Scan
-### All the files in this repository are untouched/unmodifed by me and are safe. <br> **If you are prompted with a false positive, please do not open an issue here but instead in their respectve repositories or websites.** <br> VT link: https://www.virustotal.com/gui/file/ca4e1acccd4ea77fd0b670f419e417f01f4820df2a7cf4eb69b786063ae28381/detection
+### All the files in this repository are untouched/unmodifed by me and are safe. <br> **If you are prompted with a false positive, please do not open an issue here but instead in their respectve repositories or websites.** <br> VT link: https://www.virustotal.com/gui/file/201304a918373bd59d63c1e1720ff0bd4ddc74a12e89c0bf2066f4c0bd196c0c/detection
 
 ---
 [github.com/Daksh777/windows10-debloat](https://github.com/Daksh777/windows10-debloat)
