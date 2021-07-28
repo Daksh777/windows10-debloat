@@ -13,7 +13,7 @@ All the files in this repository are untouched/unmodifed by me and are safe. **Y
 ---
 # Sources
 ## Debloat Apps
-- OOSU10: https://www.oo-software.com/en/shutup10 *(Last updated on 2 June, 2021. Latest version: 1.8.1421)*
+- OOSU10: https://www.oo-software.com/en/shutup10 *(Last updated on 1 July, 2021. Latest version: 1.8.1423)*
 - Privatezilla: https://github.com/builtbybel/privatezilla *(Last updated on 8 May, 2021. Latest version: 0.50.0)*
 - UWT4: https://thewindowsclub.com/ultimate-windows-tweaker-4-windows-10 *(Last updated: 24 February, 2021. Latest version: 4.8)*
 - Bloatbox: https://github.com/builtbybel/bloatbox *(Last updated on 24 May, 2021. Latest version: 0.20.00)*
@@ -22,7 +22,7 @@ All the files in this repository are untouched/unmodifed by me and are safe. **Y
 - W4RH4WK's Scripts: https://github.com/W4RH4WK/Debloat-Windows-10 *(Last updated on 27 October 2020)*
 ## Misc Apps
 - Wise Force Deleter: https://www.wisecleaner.com/wise-force-deleter.html *(Last updated: Unknown. Latest version: 1.5.3)*
-- Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller *(Last updated on 12 May, 2021. Latest version: 5.0)*
+- Bulk Crap Uninstaller: https://github.com/Klocman/Bulk-Crap-Uninstaller *(Last updated on 11 July, 2021. Latest version: 5.1)*
 ## Misc Scripts
 - Total Access: Source unknown
 - MultiPrompt: https://github.com/shadow578/Registry-Mods *(Last updated on December 4, 2019)*
